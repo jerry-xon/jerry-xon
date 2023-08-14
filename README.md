@@ -1,4 +1,4 @@
-![logo](https://github.com/jerry-xon/JERRY.myself/blob/main/banner%20final%20draft.png)
+![logo](https://github.com/jerry-xon/jerry-xon/blob/main/banner%20final%20draft.png)
 <h1 align="center">Hi 👋, I'm JAYESH PURSWANI</h1>
 <h3 align="center">A passionate Computer Science student from India. Studying at The SRMIST Chennai.I have knowledge about Python right now, but I am leaning new things everyday.</h3>
 
