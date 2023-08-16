@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm JAYESH PURSWANI</h1>
 <h3 align="center">A passionate Computer Science student from India. Studying at The SRMIST Chennai.I have knowledge about Python right now, but I am leaning new things everyday.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=jerry-xon&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jerry-xon&icon=2&color=5)](https://visitcount.itsvg.in) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerry-xon" alt="jerry-xon" /></a> </p>
 
