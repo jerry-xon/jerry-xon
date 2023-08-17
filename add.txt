@@ -99,3 +99,50 @@ int main()
   
     return 0;
 }
+
+
+//root of equations
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    // Define the coefficients of the quadratic equation.
+    float a, b, c;
+    printf("Enter the coefficients of the quadratic equation: ");
+    scanf(" %f %f %f ", &a, &b, &c);
+
+    // Calculate the discriminant.
+    float discriminant = b * b - 4 * a * c;
+
+    // Check if the discriminant is positive.
+    if (discriminant > 0) {
+        // The equation has two real roots.
+        float root1 = (-b + sqrt(discriminant)) / (2 * a);
+        float root2 = (-b - sqrt(discriminant)) / (2 * a);
+        printf("The roots of the equation are %f and %f.", root1, root2);
+    } else if (discriminant == 0) {
+        // The equation has one real root.
+        float root = -b / (2 * a);
+        printf("The root of the equation is %f.", root);
+    } else {
+        // The equation has no real roots.
+        printf("The equation has no real roots.");
+    }
+
+    return 0;
+}
+
+//factorial program
+#include<stdio.h>
+#include<math.h>
+
+int main() {
+    int a,i,fact=1;
+    printf("enter number: ");
+    scanf("%d",&a);
+    for (i=1; i <= a; i++) {
+        fact = fact*i;
+    }
+    printf("the factorial of %d is : %d ",a,fact);
+    return 0;
+}
