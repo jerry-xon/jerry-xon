@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Purswani</h1>
 <h3 align="center">A passionate Computer Science student from India. Studying at The SRMIST Chennai.</h3>
 
-- 🔭 I’m currently working on developing a web site, for a local start-up of my city. I am using React.js to build it.**
+- 🔭 **I’m currently working on developing a web site, for a local start-up of my city. I am using React.js to build it.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
