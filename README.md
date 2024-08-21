@@ -26,7 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry-xon&show_icons=true&locale=en" alt="jerry-xon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-xon&" alt="jerry-xon" /></p>
-  
+
+### Contribution Graph
+[![Jerry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7FF&background=FF000000&center=true&vCenter=true&random=false&width=1000&height=140&lines=Thank+you)](https://git.io/typing-svg)
 
