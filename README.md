@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jayesh Purswani</h1>
-<h3 align="center">A passionate Computer Science student from India. Studying at The SRMIST Chennai.</h3>
+<h3 align="center">A Computer Science student from India. Studying at The SRMIST Chennai.</h3>
 
-- 🔭 **I’m currently working on developing a web site, for a local start-up of my city. I am using React.js to build it.**
+- Currently creating **Hybrid APPs.**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- **Exploring**
 
-- 👯 I’m looking for **Internships as I want to be more precise in working. And want to add more skills to my skill set.**
+- **What do I want ?** I want to achieve disproportion.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jerry-xon](https://github.com/jerry-xon)
+-  All of my projects are available at [https://github.com/jerry-xon](https://github.com/jerry-xon)
 
-- 📫 How to reach me **jppurswani2004@gmail.com**
+-  How to reach me **jppurswani2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
